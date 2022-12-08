@@ -1,0 +1,40 @@
+body {
+  background-color: #f68181 !important;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+}
+
+.center {
+  margin: 1rem;
+  position: relative;
+  text-align: center;
+}
+
+p {
+  color: white;
+  text-align: center;
+}
+
+.headerImage {
+  width: 50%;
+  height: 50%;
+}
+
+.card {
+  margin: 1rem;
+  background-color: #ffd28e !important;
+}
+
+.center-card {
+  display: flex;
+  justify-content: center;
+  margin: 1rem;
+}
